@@ -1,0 +1,11 @@
+firstname,lastname,username,department,password,ou
+John,Hong,John.Hong,ctzero,1qaz2wsx!QAZ@WSX,"CN=Users,DC=ctzero,DC=local"
+Nick,Gabble,Nick.Gabble,ctzero,1qaz2wsx!QAZ@WSX,"CN=Users,DC=ctzero,DC=local"
+Troy,Mateo,Troy.Mateo,ctzero,1qaz2wsx!QAZ@WSX,"CN=Users,DC=ctzero,DC=local"
+Antonio,Santana,Antonio.Santana,ctzero,1qaz2wsx!QAZ@WSX,"CN=Users,DC=ctzero,DC=local"
+Mark,Wright,Mark.Wright,ctzero,1qaz2wsx!QAZ@WSX,"CN=Users,DC=ctzero,DC=local"
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
